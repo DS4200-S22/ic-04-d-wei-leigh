@@ -1,3 +1,18 @@
-#font {
-	
+body {
+	font-family: Arial;
+	color: green;
+	text-align: center;
 }
+
+.container {
+	border-style: solid;
+	color: black;
+	margin-top: 30 px;
+	margin-bottom: 30 px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+
